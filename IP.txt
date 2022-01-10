@@ -1,0 +1,2 @@
+#RedLine Stealer C2
+45.144.30.184
